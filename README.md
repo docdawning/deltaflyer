@@ -1,4 +1,3 @@
-# DeltaFlyer
 <H1>The Delta Flyer</H1>
 Note: This project is in its infancy. 
 
