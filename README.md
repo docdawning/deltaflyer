@@ -3,6 +3,9 @@ Note: This project is in its infancy.
 
 The Delta Flyer is my implementation of a Kossel Mini. I could call it a Mega Kossel Mini since I used 1000mm vertical extrusions for the frame; it's big.
 
+<H3>Project Home</H3>
+<a href="http://www.dawning.ca/printing/deltaflyer/">The DeltaFlyer home page is here</a>.
+
 <H3>Features</H3>
 <UL>
 <LI>1000mm frame height</LI>
