@@ -33,3 +33,8 @@ Here's a reasonably complete list of where I got parts for the DeltaFlyer.
 <LI>Endstops: <a href="http://www.ebay.ca/itm/281683135744">Optical endstops from ebay</a></LI>
 <LI>Motherboard: <a href="http://shop.uberclock.com/collections/smoothie/products/smoothieboard">Smoothieboard</a></LI>
 </UL>
+
+<H3>Helpful Resources</H3>
+<UL>
+<LI><a href="https://github.com/Jaydmdigital/mk_visual_calc.git">Kossel Visual Calculator</a></LI>
+</UL>
