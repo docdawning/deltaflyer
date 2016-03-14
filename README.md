@@ -31,16 +31,25 @@ Here's a reasonably complete list of where I got parts for the DeltaFlyer.
 <LI>Extrusions: <a href="http://solarbotics.com">Solarbotics</a> (super convienent for my location; Calgary Alberta)</LI>
 <LI>Build Plate: <a href="http://www.ebay.ca/itm/281922358523">ebay</a></LI>
 <LI>Bolts: <a href="http://www.ebay.ca/itm/181888160934">ebay</a>, and <a href="http://www.ebay.ca/itm/311508638157">More ebay</a>, even more <a href="http://www.ebay.ca/itm/361012121675">ebay</a></LI>
-<LI>Nuts: <a href="http://www.ebay.ca/itm/381266895470">ebay</a></LI>
+<LI>M3 Nuts: <a href="http://www.ebay.ca/itm/381266895470">ebay</a></LI>
 <LI>Extruder: <a href="http://www.ebay.ca/itm/381482847364">J-Head from ebay</a></LI>
 <LI>Endstops: <a href="http://www.ebay.ca/itm/281683135744">Optical endstops from ebay</a></LI>
 <LI>Motherboard: <a href="http://shop.uberclock.com/collections/smoothie/products/smoothieboard">Smoothieboard</a></LI>
 </UL>
 
+<H3>Vertical Carriages</H3>
+I've gone a bit off-road for vertical motion. Thanks to this fellow: <a href="http://www.electronhacks.com/2013/12/kossel-mini-3d-printer-vertical-movement-tutorial/">Vertical Motion for less $</a>.
+<H4>Components</H4>
+<ul>
+<li><a href="https://www.homedepot.ca/en/home/p.78-in-round-tub-enclosure-rollers.1000161510.html">Shower Rollers: Prime-Line Tub enclosure sliding door rollers (oval). M-6002</a></li>
+<li>8-32x1.5 Machine Screws (I bet 1in ones would be a little better than 1.5)</li>
+<li>8-32 Machine Screw Nuts</li>
+<li><a href="http://www.thingiverse.com/thing:215438">Carriage for Prime Line Roller</a> (note a copy of the STL is here in git, in case Thingivese goes away).</li>
+</ul>
+
 <H3>Helpful Resources</H3>
 <UL>
 <LI><a href="https://github.com/Jaydmdigital/mk_visual_calc.git">Kossel Visual Calculator</a></LI>
-<LI><a href="http://www.electronhacks.com/2013/12/kossel-mini-3d-printer-vertical-movement-tutorial/">Vertical Motion for less $</a></LI>
 </UL>
 
 <H3>Photos</H3>
