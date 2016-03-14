@@ -2,7 +2,8 @@
 The Delta Flyer is my implementation of a Kossel Mini. I could call it a <i>Mega Kossel Mini</i> since I used 1000mm vertical extrusions for the frame; it's big. I gave it its own name to give it an identity under which to pool everything I do with it, which will make it unique to some extent.
 
 <h3>Project Status</h3>
-65% of inital components acquired. Assembly pending.
+100% of inital components acquired. Assembly underway.
+I haven't figured out what I'm going to do for auto-levelling, which seems like a must-have.
 
 <H3>Project Home</H3>
 <a href="http://www.dawning.ca/printing/deltaflyer/">The DeltaFlyer home page is here</a>.
