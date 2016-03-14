@@ -30,11 +30,12 @@ Here's a reasonably complete list of where I got parts for the DeltaFlyer.
 <UL>
 <LI>Extrusions: <a href="http://solarbotics.com">Solarbotics</a> (super convienent for my location; Calgary Alberta)</LI>
 <LI>Build Plate: <a href="http://www.ebay.ca/itm/281922358523">ebay</a></LI>
-<LI>Bolts: <a href="http://www.ebay.ca/itm/181888160934">ebay</a>, and <a href="http://www.ebay.ca/itm/311508638157">More ebay</a>, even more <a href="http://www.ebay.ca/itm/361012121675">ebay</a></LI>
-<LI>M3 Nuts: <a href="http://www.ebay.ca/itm/381266895470">ebay</a></LI>
+<LI>Metric Bolts: <a href="http://www.ebay.ca/itm/181888160934">ebay</a>, and <a href="http://www.ebay.ca/itm/311508638157">More ebay</a>, even more <a href="http://www.ebay.ca/itm/361012121675">ebay</a></LI>
+<LI>Metric Nuts: <a href="http://www.ebay.ca/itm/381266895470">ebay</a></LI>
 <LI>Extruder: <a href="http://www.ebay.ca/itm/381482847364">J-Head from ebay</a></LI>
 <LI>Endstops: <a href="http://www.ebay.ca/itm/281683135744">Optical endstops from ebay</a></LI>
 <LI>Motherboard: <a href="http://shop.uberclock.com/collections/smoothie/products/smoothieboard">Smoothieboard</a></LI>
+<LI>Rollers: HomeDepot (see Vertical Carriages below).</LI>
 </UL>
 
 <H3>Vertical Carriages</H3>
