@@ -36,7 +36,9 @@ Here's a reasonably complete list of where I got parts for the DeltaFlyer.
 <LI>Extruder: <a href="http://www.ebay.ca/itm/381482847364">J-Head from ebay</a></LI>
 <LI>Endstops: <a href="http://www.ebay.ca/itm/281683135744">Optical endstops from ebay</a></LI>
 <LI>Motherboard: <a href="http://shop.uberclock.com/collections/smoothie/products/smoothieboard">Smoothieboard</a></LI>
-<LI>Rollers: HomeDepot (see Vertical Carriages below).</LI>
+<LI>Rollers V1: HomeDepot (see Vertical Carriages below).</LI>
+<LI>Rollers V2: <a href="http://deltaprintr.com/shop/parts-and-accessories/hardware/carriage-wheel/">Delrin rollers</a></LI>
+<LI><i>Tentative</i> Rollers V3: <a href="http://www.aliexpress.com/store/product/NEW-Square-linear-guide-2-X-MGN12-L-800mm-with-4pcs-MGN12H-C-linear-blocks-can/1021965_1560984710.html">800mm Linear rails</a></LI>
 </UL>
 
 <H3>Vertical Carriages</H3>
