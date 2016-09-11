@@ -2,17 +2,21 @@
 The Delta Flyer is my implementation of a Kossel Mini. I could call it a <i>Mega Kossel Mini</i> since I used 1000mm vertical extrusions for the frame; it's big. I gave it its own name to give it an identity under which to pool everything I do with it, which will make it unique to some extent.
 
 <h3>Project Status</h3>
-100% of inital components acquired. Assembly underway.
-I haven't figured out what I'm going to do for auto-levelling, which seems like a must-have.
+The DeltaFlyer's been through a few tours of duty now. It works just fine. The biggest pending upgrade is to switch to a flying extruder. (Updated 2016-09-11)
 
 <H3>Project Home</H3>
 <a href="http://www.dawning.ca/printing/deltaflyer/">The DeltaFlyer home page is here</a>.
+DeltaFlyer also <a href="https://hackaday.io/project/10115-delta-flyer">has a prescence here</a>.
 
 <H3>Features</H3>
 <UL>
 <LI>1000mm frame height</LI>
 <LI>360mm sides</LI>
 <LI>250mm diameter build plate</LI>
+<LI>FSR Autolevelling</LI>
+<LI><a href="https://github.com/docdawning/Illuminatrix">Illuminatrix</a> Lighting System</LI>
+<LI>TARDIS machine case</LI>
+<LI>Octopi (altered to create its own Wifi network for easy mobile access)</LI>
 </UL>
 
 <H3>Kossel Mini Parts</h3>
@@ -21,10 +25,7 @@ I haven't figured out what I'm going to do for auto-levelling, which seems like 
 </ul>
 
 <H3>Augmentations</H3>
-<UL>
-<LI><a href="http://www.thingiverse.com/thing:225126">Cooling duct</a></LI>
-<LI>Frame brace (I barely changed someone's design, I forget who)</LI>
-</UL>
+I've made various augumentations, heavily leveraging other folk's great work. Check out the included files in the repo.
 
 <H3>Parts Sources</H3>
 Here's a reasonably complete list of where I got parts for the DeltaFlyer.
