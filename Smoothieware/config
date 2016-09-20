@@ -24,7 +24,7 @@ arm_radius                                   173.0            # this is the hori
 
 # Planner module configuration : Look-ahead and acceleration configuration
 planner_queue_size                           32               # DO NOT CHANGE THIS UNLESS YOU KNOW EXACTLY WHAT YOU ARE DOING
-acceleration                                 5000             # Acceleration in mm/second/second.
+acceleration                                 10000             # Acceleration in mm/second/second.
 junction_deviation                           0.05             # Similar to the old "max_jerk", in millimeters,
                                                               # see https://github.com/grbl/grbl/blob/master/planner.c#L409
                                                               # and https://github.com/grbl/grbl/wiki/Configuring-Grbl-v0.8
@@ -37,28 +37,28 @@ microseconds_per_step_pulse                  1                # Duration of step
 base_stepping_frequency                      100000           # Base frequency for stepping
 
 # Cartesian axis speed limits
-x_axis_max_speed                             30000            # mm/min
-y_axis_max_speed                             30000            # mm/min
-z_axis_max_speed                             30000            # mm/min
+x_axis_max_speed                             45000            # mm/min
+y_axis_max_speed                             45000            # mm/min
+z_axis_max_speed                             45000            # mm/min
 
 # Stepper module pins ( ports, and pin numbers, appending "!" to the number will invert a pin )
 alpha_step_pin                               2.2              # Pin for alpha stepper step signal
 alpha_dir_pin                                0.20             # Pin for alpha stepper direction
 alpha_en_pin                                 0.19             # Pin for alpha enable pin
 alpha_current                                0.6              # X stepper motor current
-alpha_max_rate                               30000.0          # mm/min
+alpha_max_rate                               45000.0          # mm/min
 
 beta_step_pin                                2.3              # Pin for beta stepper step signal
 beta_dir_pin                                 0.22             # Pin for beta stepper direction
 beta_en_pin                                  0.21             # Pin for beta enable
 beta_current                                 0.6              # Y stepper motor current
-beta_max_rate                                30000.0          # mm/min
+beta_max_rate                                45000.0          # mm/min
 
 gamma_step_pin                               2.8              # Pin for gamma stepper step signal
 gamma_dir_pin                                2.13             # Pin for gamma stepper direction
 gamma_en_pin                                 4.29             # Pin for gamma enable
 gamma_current                                0.6              # Z stepper motor current
-gamma_max_rate                               30000.0          # mm/min
+gamma_max_rate                               45000.0          # mm/min
 
 # Serial communications configuration ( baud rate default to 9600 if undefined )
 uart0.baud_rate                              115200           # Baud rate for the default hardware serial port
@@ -72,9 +72,9 @@ second_usb_serial_enable                     false            # This enables a s
 # Extruder module configuration
 extruder.hotend.enable                          true             # Whether to activate the extruder module at all. All configuration is ignored if false
 extruder.hotend.steps_per_mm                    86.7             # Steps per mm for extruder stepper
-extruder.hotend.default_feed_rate               600              # Default rate ( mm/minute ) for moves where only the extruder moves
-extruder.hotend.acceleration                    500              # Acceleration for the stepper motor, as of 0.6, arbitrary ratio
-extruder.hotend.max_speed                       50               # mm/s
+extruder.hotend.default_feed_rate               1000              # Default rate ( mm/minute ) for moves where only the extruder moves
+extruder.hotend.acceleration                    1500              # Acceleration for the stepper motor, as of 0.6, arbitrary ratio
+extruder.hotend.max_speed                       500               # mm/s
 
 extruder.hotend.step_pin                        2.0              # Pin for extruder step signal
 extruder.hotend.dir_pin                         0.5!             # Pin for extruder dir signal
